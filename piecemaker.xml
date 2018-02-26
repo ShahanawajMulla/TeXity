@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Contents>
+    <Image Source="textile-polymers.jpg" Title="Cotton Growth"></Image>
+    <Image Source="TextileIndustry.jpg" Title="Spinning  Process">
+      <Text>&lt;h1&gt;TeXity&lt;/h1&gt;&lt;p&gt;Cotton is a soft, fluffy staple fiber that grows in a boll, or protective capsule, around the seeds of cotton plants of the genus Gossypium in the family of Malvaceae. The fiber is almost pure cellulose. Under natural conditions, the cotton bolls will tend to increase the dispersion of the seeds.
+
+The plant is a shrub native to tropical and subtropical regions around the world, including the Americas, Africa, and India.&lt;/p&gt;</Text>
+      <Hyperlink URL="spinning.php" Target="_blank" />
+    </Image>
+    <Image Source="akitex-private-limited-4.jpg" Title="Chemical Process"></Image>
+    <Image Source="v.jpg" Title="Garments">
+      <Text>&lt;h1&gt;Graments &lt;/h1&gt;&lt;p&gt;it a process   to distributing the cloths in markets&lt;/p&gt;</Text>
+      <Hyperlink URL="garment.php" Target="_blank" />
+    </Image>
+    <Image Source="w.jpg" Title="Fabrics"></Image>
+    <Image Source="z.jpg" Title="Weaving Process">
+      <Text>&lt;h1&gt;Fabrics &lt;/h1&gt;&lt;p&gt;In this Fabrics process types of Fabrics is used &lt;/p&gt;</Text>
+      <Hyperlink URL="login.html" Target="_blank" />
+    </Image>
+
+  </Contents>
+  <Settings 
+  ImageWidth="960" 
+  ImageHeight="360" 
+  LoaderColor="0x333333" 
+  InnerSideColor="0x222222" 
+  SideShadowAlpha="0.8" 
+  DropShadowAlpha="0.7" 
+  DropShadowDistance="25" 
+  DropShadowScale="0.90" 
+  DropShadowBlurX="40" 
+  DropShadowBlurY="4" 
+  MenuDistanceX="25" 
+  MenuDistanceY="50" 
+  MenuColor1="0x999999" 
+  MenuColor2="0x333333" 
+  MenuColor3="0xFFFFFF" 
+  ControlSize="70" 
+  ControlDistance="20" 
+  ControlColor1="0x222222" 
+  ControlColor2="0xFFFFFF" 
+  ControlAlpha="0.8" 
+  ControlAlphaOver="0.95" 
+  ControlsX="480" 
+  ControlsY="300&#xD;&#xA;" 
+  ControlsAlign="center" 
+  TooltipHeight="30" 
+  TooltipColor="0x222222" 
+  TooltipTextY="5" 
+  TooltipTextStyle="P-Italic" 
+  TooltipTextColor="0xFFFFFF" 
+  TooltipMarginLeft="5" 
+  TooltipMarginRight="5" 
+  TooltipTextSharpness="50" 
+  TooltipTextThickness="-100" 
+  InfoWidth="400" 
+  InfoBackground="0xFFFFFF" 
+  InfoBackgroundAlpha="0.95" 
+  InfoMargin="15" 
+  InfoSharpness="0" 
+  InfoThickness="0" 
+  Autoplay="10" 
+  FieldOfView="45">
+  </Settings>
+  <Transitions>
+    <Transition Pieces="10" Time="1.2" Transition="easeInOutBack" Delay="0.1" DepthOffset="300" CubeDistance="10"></Transition>
+    <Transition Pieces="10" Time="3" Transition="easeInOutElastic" Delay="0.03" DepthOffset="200" CubeDistance="10"></Transition>
+    <Transition Pieces="10" Time="1.4" Transition="easeInOutElastic" Delay="0.02" DepthOffset="400" CubeDistance="5"></Transition>
+  </Transitions>
+</Piecemaker>
